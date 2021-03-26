@@ -3,8 +3,9 @@ amortized	additions
 analyzed	addresses
 balanced	algorithm
 birthday	analysis
-chance	ancestor
-child	base case
+bounded	ancestor
+chance	base case
+child	bounds
 circular	branches
 compiling	chain
 complete	children
@@ -35,22 +36,24 @@ linear	O-notation
 linked	operations
 log-base	paradoxes
 logarithmic	pointers
-merged	priorities
-nested	programming
-parent	programs
-perfect	properties
-probabilistic	pseudocode
-quadratic	query
-random	recursion
-recursive	removal
-rotating	roots
-sibling	sentinels
-skipped	statements
-sorted	structures
-square	subtree
-sub-linear	tests
-supra-linear	trees
-terminal	values
-timed	variables
+loose	priorities
+merged	programming
+nested	programs
+parent	properties
+perfect	pseudocode
+probabilistic	query
+quadratic	recursion
+random	removal
+recursive	roots
+rotating	sentinels
+sibling	statements
+skipped	structures
+sorted	subtree
+square	tests
+sub-linear	trees
+supra-linear	values
+terminal	variables
+tight	
+timed	
 unsorted	
 worst-case	
