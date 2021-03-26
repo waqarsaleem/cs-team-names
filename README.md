@@ -4,13 +4,13 @@ Generate names of activity, homework, or project teams in your computer science 
 
 There are many team name generators that generate random team names as _adjective-noun_. They typically use animals as nouns or have other themes, e.g. sports. These are great!
 
-For my CS course, I wanted more CS themed names. `names.txt` contains 2 columns, one each for adjectives and nouns, all CS-themed. Each column has a heading and its entries are sorted alphabetically. All entries are in lower case. The columns are separated by a _tab_ character for easy copy-pasting into a Google sheet.
+For my CS course, I wanted more CS themed names. [names.txt](names.txt) contains 2 columns, one each for adjectives and nouns, all CS-themed. Each column has a heading and its entries are sorted alphabetically. All entries are in lower case. The columns are separated by a _tab_ character for easy copy-pasting into a Google sheet.
 
 If have read this far, you are probably a CS instructor looking for team names for your course. You are smart and know how to take it forward from here. But you are probably also exhausted. Some explanation is provided below just in case.
 
 ## How to use
 
-To generate a team name, pick a random entry from each column in `names.txt` and pair them, e.g. "circular" and "exponents" leading to "circular exponents". You can do this manually but if you want to generate multiple names, you probably need some programmatic help!
+To generate a team name, pick a random entry from each column in [names.txt](names.txt) and pair them, e.g. "circular" and "exponents" leading to "circular exponents". You can do this manually but if you want to generate multiple names, you probably need some programmatic help!
 
 ### Google Sheets
 
