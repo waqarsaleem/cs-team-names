@@ -2,11 +2,12 @@ Adjectives	Nouns
 amortized	additions
 analyzed	addresses
 balanced	algorithm
-chance	analysis
-child	ancestor
-circular	base case
-compiling	branches
-complete	chain
+birthday	analysis
+chance	ancestor
+child	base case
+circular	branches
+compiling	chain
+complete	children
 conditional	compilation
 constant	conditionals
 contiguous	corpora
@@ -32,24 +33,24 @@ lazy	loop
 leaf	nodes
 linear	O-notation
 linked	operations
-log-base	pointers
-logarithmic	priorities
-merged	programming
-nested	programs
-parent	properties
-perfect	pseudocode
-probabilistic	query
-quadratic	removal
-random	roots
-recursive	sentinels
-rotating	statements
-sibling	structures
-skipped	subtree
-sorted	tests
-square	trees
-sub-linear	values
-supra-linear	variables
-terminal	
-timed	
+log-base	paradoxes
+logarithmic	pointers
+merged	priorities
+nested	programming
+parent	programs
+perfect	properties
+probabilistic	pseudocode
+quadratic	query
+random	recursion
+recursive	removal
+rotating	roots
+sibling	sentinels
+skipped	statements
+sorted	structures
+square	subtree
+sub-linear	tests
+supra-linear	trees
+terminal	values
+timed	variables
 unsorted	
 worst-case	

@@ -25,11 +25,12 @@ You can paste this formula in as many cells as desired. You should get a new nam
 The accompanying python script, `TODO.py`, will generate the desired number of names for you.
 
 ## Issues
-It is important to understand some issues with the generated names. Some of these arise from our choice of adjectives and nouns, and some spring from the algorithm.
+It is important to be aware of some issues with the generated names and how to work around them. Some of the issues arise from our choice of adjectives and nouns, and some spring from the algorithm.
 
-- noun or adjective, e.g. data
-- singular or plural
-- strange names, data-data
-- repetition and birthday paradox
+- Some words appear in both lists, e.g. "data". "data" can be thought of as an adjective when use in phrases like "data structures". Also using "data" as an adjective can lead to cool names, like "data pointers". However, it can also lead to strange names as "data data" or "recursive recursion". Always review the generated names and tweak them as necessary.
+- Most nouns appear in the list in the plural form, e.g. "exponents" but some are singular, e.g. "recursion" or "pseudocode". This arises from the typical use of the noun. Always review the generated names and tweak them as necessary.
+- Because you may be discarding some generated names, it is recommended to generate more names than required so that you are good even after throwing some out.
+- The [product rule](https://en.wikipedia.org/wiki/Rule_of_product) gives us an upper limit on the number of unique names that can be generated with this list (above 2500 at the moment!). However, the [birthday paradox](https://en.wikipedia.org/wiki/Birthday_problem) tells us that we can start expecting repetitions with a far fewer number of names. I have not gotten around to working that number out just yet.
 
 ## Contribute
+Contributions are welcome. You can contribute to the list of adjectives and nouns, or to other aspects, e.g. the documentation and code.
